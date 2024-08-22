@@ -50,8 +50,8 @@ python main.py <obj_path> <mtl_path> <texture_dir> [<output_path>]
 Here is an example input 3D model and its generated LEGO-compatible LDR file:
 
 <p align="left">
-  <img src="images/input_model.png" alt="Input Model" width="74" style="margin-right: 20px;" />
-  <img src="images/output_ldr.png" alt="Output LDR" width="90" />
+  <img src="example/input_model.png" alt="Input Model" width="74" style="margin-right: 20px;" />
+  <img src="example/output_ldr.png" alt="Output LDR" width="90" />
 </p>
 
 ## Project Structure
