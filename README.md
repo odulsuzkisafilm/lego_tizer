@@ -70,5 +70,5 @@ Here is an example input 3D model and its generated LEGO-compatible LDR file:
 - **lego_tizer/utils**:
   - `debug.py`: Utility functions for debugging the texture application.
 
-## Acknowledgments
+## Acknowledgements
 Thanks to [Valensas](https://valensas.com) for the opportunity to work on this project.
